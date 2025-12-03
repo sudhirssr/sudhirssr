@@ -116,6 +116,7 @@
         box-shadow: 0 0 20px #ff004455; 
         transition: all 0.3s ease-in-out; 
         margin: 10px;
+    margin-top:20px;
       ">
     <img src="https://github.com/sudhirssr/sudhirssr/blob/main/Screenshot%202025-12-03%20183219.png"
       width="100%" height="430px"
@@ -177,16 +178,7 @@
 <div style="height: 2px; width: 60%; margin: 30px auto; background: linear-gradient(90deg, transparent, #ff3399, transparent); border-radius: 1px;"></div>
 
 
-<h2 align="center" style="
-  background: linear-gradient(90deg, #ff0077, #ff3300);
-  -webkit-background-clip: text;
-  color: transparent;
-  text-shadow: 0 0 18px #ff0044;
-  font-size: 28px;
-  margin-bottom: 20px;
-">
-  **“Design with soul. Code with fire.”** 🔥
-</h2>
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=harshavardini406&style=for-the-badge&color=ff006a" alt="Profile views counter" />
