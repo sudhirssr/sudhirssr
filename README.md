@@ -2,7 +2,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
 
 
-
+<div style="font-family:Poppins">
 <!-- GLOW TITLE -->
 <h1 align="center" style="
   color:#ff2b2b;
@@ -161,4 +161,5 @@ A smart and engaging learning tool to improve vocabulary effectively.
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="70%" />
+</div>
 </div>
