@@ -154,7 +154,7 @@
     transition: all 0.3s ease-in-out; 
     margin: 10px;
   ">
-    <img src="https://raw.githubusercontent.com/sudharshansudhir/Portfolio-SSR/main/src/assets/imagess/proj-1.png"
+    <img src="https://github.com/sudhirssr/sudhirssr/blob/main/Screenshot%202025-12-03%20183219.png"
       width="100%" height="auto"
       style="border-radius: 15px; box-shadow: 0 0 25px #ff007766; max-width: 380px;" />
     <h3 style="color: #ff3399; margin: 15px 0 5px;">📘 AI Vocabulary Builder</h3>
