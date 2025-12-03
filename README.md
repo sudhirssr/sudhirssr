@@ -56,12 +56,7 @@
 ">🎯 Core Tech Stack</h2>
 
 <div align="center" style="max-width: 900px; margin: 0 auto; padding: 0 10px;">
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; margin-bottom: 20px;">
-    <span style="font-weight: 700; color: #ff99cc; border: 1px solid #ff006a88; padding: 5px 15px; border-radius: 8px; box-shadow: 0 0 10px #ff006a55;">Frontend</span>
-    <span style="font-weight: 700; color: #ff99cc; border: 1px solid #ff006a88; padding: 5px 15px; border-radius: 8px; box-shadow: 0 0 10px #ff006a55;">Backend</span>
-    <span style="font-weight: 700; color: #ff99cc; border: 1px solid #ff006a88; padding: 5px 15px; border-radius: 8px; box-shadow: 0 0 10px #ff006a55;">Database</span>
-    <span style="font-weight: 700; color: #ff99cc; border: 1px solid #ff006a88; padding: 5px 15px; border-radius: 8px; box-shadow: 0 0 10px #ff006a55;">Tools</span>
-  </div>
+
 
   <div align="center">
     <a href="https://skillicons.dev" target="_blank" style="text-decoration: none;">
@@ -106,7 +101,7 @@
         <p style="color: #ffc5c5;">React • Node Js • Express • MongoDB</p>
         <div style="font-size: 16px; margin-top: 10px;">
           🔗 <a href="https://tomato-mern-stack-project.vercel.app/" style="color: #ff66aa; text-decoration: none; font-weight: 600;">Live Demo</a> • 
-          <a href="https://github.com/HarshaRepoHere/Tomato" style="color: #ff66aa; text-decoration: none; font-weight: 600;">GitHub Code</a>
+          <a href="https://github.com/harshavardini406/Tomato-MERN-Stack-project" style="color: #ff66aa; text-decoration: none; font-weight: 600;">GitHub Code</a>
         </div>
       </div>
     </td>
@@ -128,8 +123,8 @@
     <h3 style="color: #ff3399; margin: 15px 0 5px;">📘 AI Vocabulary Builder</h3>
     <p style="color: #ffc5c5;">HTML • CSS • JavaScript • AI-powered learning tool</p>
     <div style="font-size: 16px; margin-top: 10px;">
-      🔗 <a href="https://vocabulary-builder.vercel.app/" style="color: #ff66aa; text-decoration: none; font-weight: 600;">Live Demo</a> • 
-      <a href="https://github.com/HarshaRepoHere/Vocabulary-Builder" style="color: #ff66aa; text-decoration: none; font-weight: 600;">GitHub Code</a>
+      🔗
+      <a href="https://github.com/harshavardini406/Vocabularybuilder" style="color: #ff66aa; text-decoration: none; font-weight: 600;">GitHub Code</a>
     </div>
   </div>
 </td>
