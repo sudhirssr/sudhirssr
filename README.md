@@ -127,28 +127,28 @@
       </div>
     </td>
 
-    <td align="center" width="50%" style="vertical-align: top;">
-      <div style="
-        background: rgba(255, 0, 120, 0.08); 
-        padding: 20px; 
-        border-radius: 18px; 
-        border: 1px solid #ff2e5f55; 
-        backdrop-filter: blur(10px); 
-        box-shadow: 0 0 20px #ff007755; 
-        transition: all 0.3s ease-in-out; 
-        margin: 10px;
-      ">
-        <img src="https://raw.githubusercontent.com/sudharshansudhir/Portfolio-SSR/main/src/assets/imagess/proj-1.png"
-          width="100%" height="auto"
-          style="border-radius: 15px; box-shadow: 0 0 25px #ff007766; max-width: 380px;" />
-        <h3 style="color: #ff3399; margin: 15px 0 5px;">📘 AI Vocabulary Builder</h3>
-        <p style="color: #ffc5c5;">HTML • CSS • JavaScript • AI-powered learning tool</p>
-        <div style="font-size: 16px; margin-top: 10px;">
-          🔗 <a href="https://vocabulary-builder.vercel.app/" style="color: #ff66aa; text-decoration: none; font-weight: 600;">Live Demo</a> • 
-          <a href="https://github.com/HarshaRepoHere/Vocabulary-Builder" style="color: #ff66aa; text-decoration: none; font-weight: 600;">GitHub Code</a>
-        </div>
-      </div>
-    </td>
+ 
+  <div style="
+    background: rgba(255, 0, 120, 0.08); 
+    padding: 20px; 
+    border-radius: 18px; 
+    border: 1px solid #ff2e5f55; 
+    backdrop-filter: blur(10px); 
+    box-shadow: 0 0 20px #ff007755; 
+    transition: all 0.3s ease-in-out; 
+    margin: 10px;
+  ">
+    <img src="https://raw.githubusercontent.com/sudharshansudhir/Portfolio-SSR/main/src/assets/imagess/proj-1.png"
+      width="100%" height="auto"
+      style="border-radius: 15px; box-shadow: 0 0 25px #ff007766; max-width: 380px;" />
+    <h3 style="color: #ff3399; margin: 15px 0 5px;">📘 AI Vocabulary Builder</h3>
+    <p style="color: #ffc5c5;">HTML • CSS • JavaScript • AI-powered learning tool</p>
+    <div style="font-size: 16px; margin-top: 10px;">
+      🔗 <a href="https://vocabulary-builder.vercel.app/" style="color: #ff66aa; text-decoration: none; font-weight: 600;">Live Demo</a> • 
+      <a href="https://github.com/HarshaRepoHere/Vocabulary-Builder" style="color: #ff66aa; text-decoration: none; font-weight: 600;">GitHub Code</a>
+    </div>
+  </div>
+</td>
   </tr>
 </table>
 
