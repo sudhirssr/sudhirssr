@@ -1,10 +1,12 @@
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
-
-<style>
+<head>
+ <style>
   * {
     font-family: 'Poppins', sans-serif;
   }
 </style>
+
+</head>
 
 <!-- TITLE -->
 <h1 align="center" style="color:#ff2e2e; text-shadow:0 0 12px #ff4d4d;">
