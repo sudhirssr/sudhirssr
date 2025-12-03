@@ -143,7 +143,7 @@
       </div>
     </td>
 
- 
+  <td align="center" width="50%" style="vertical-align: top;">
   <div style="
     background: rgba(255, 0, 120, 0.08); 
     padding: 20px; 
