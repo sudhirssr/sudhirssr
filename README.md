@@ -116,7 +116,7 @@
         box-shadow: 0 0 20px #ff004455; 
         transition: all 0.3s ease-in-out; 
         margin: 10px;
-    margin-top:20px;
+    margin-top:40px;
       ">
     <img src="https://github.com/sudhirssr/sudhirssr/blob/main/Screenshot%202025-12-03%20183219.png"
       width="100%" height="430px"
