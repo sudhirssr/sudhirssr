@@ -1,5 +1,21 @@
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+<!-- RGB NEON HEADER -->
+<h1 align="center" style="font-family:'Lovers Quarrel'; font-size:64px; font-weight:400; color:#ff77ff; text-shadow:0 0 15px #ff33ff, 0 0 25px #ff0099;">
+  ʜᴇʏ,ɪ ᴀᴍ ꜱᴜᴅʜᴀʀꜱʜᴀɴ ʀ (ꜱꜱʀ)
+</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Lovers+Quarrel&size=48&duration=3000&pause=1200&color=00E5FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Mern+Stack+Developer;Ui%2FUx+Designer;Film+Maker" />
+</p>
+
+---
+
+<!-- Neon Hero Image -->
+<div align="center">
+  <img src="https://portfolio-ssr-five.vercel.app/assets/aboutsection-CwkqpXr9.jpg" width="480" style="border-radius:22px; box-shadow:0 0 25px rgba(0,255,255,0.6), 0 0 45px rgba(255,0,255,0.4);" />
+</div>
+
+---
 <div style="
   font-family: 'Poppins', sans-serif; 
   background-color: #0d0d0d; 
