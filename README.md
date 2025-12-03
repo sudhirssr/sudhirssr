@@ -1,5 +1,9 @@
 # ❤️ Hi, I'm **HarshaVardini.T**
-### **Full Stack Developer | React Enthusiast | Java & SQL Lover**
+<div align="center">
+  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF0000&lines=Full+Stack+Developer;React+Frontend+Developer;Java+%7C+SQL+%7C+Problem+Solver;Building+Projects+with+Passion❤️&center=true&width=500&height=45)
+
+</div>
 
 <div align="center">
   
@@ -55,13 +59,6 @@ A simple & interactive tool that helps users improve vocabulary using:
 🔗 **Live:** *paste here*  
 
 ---
-
-## ✨ Animated Header
-<div align="center">
-  
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF0000&lines=Full+Stack+Developer;React+Frontend+Developer;Java+%7C+SQL+%7C+Problem+Solver;Building+Projects+with+Passion❤️&center=true&width=500&height=45)
-
-</div>
 
 ---
 
