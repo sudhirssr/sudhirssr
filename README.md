@@ -16,42 +16,7 @@
 </div>
 
 ---
-<div style="
-  font-family: 'Poppins', sans-serif; 
-  background-color: #0d0d0d; 
-  color: #ffd7dd; 
-  padding: 10px;
-  /* Defining keyframes as inline CSS properties is not standard, but we adhere to the rule of removing the <style> tag. */
-  /* This is the closest we can get to making the 'pulse' animation inline, but it relies on GitHub allowing non-standard inline rules. */
-  animation-name: pulse;
-  @keyframes pulse {
-    0% { transform: scale(1); }
-    50% { transform: scale(1.05); }
-    100% { transform: scale(1); }
-  }
-">
 
-<h1 align="center" style="
-  font-size: 56px;
-  font-weight: 700;
-  margin-bottom: 5px;
-  background: linear-gradient(90deg, #ff006a, #ff4d00, #ff006a);
-  -webkit-background-clip: text;
-  color: transparent;
-  text-shadow: 0 0 20px #ff2e2eaa, 0 0 5px #ff4d00aa;
-">
-  <span style="display: inline-block; animation: pulse 1.5s infinite;">💖</span> HarshaVardini.T <span style="display: inline-block; animation: pulse 1.5s infinite reverse;">💖</span>
-</h1>
-
-<p align="center" style="font-size: 20px; color: #ffc5c5; margin-top: 0; font-weight: 400;">
-  **Full Stack Developer • React Specialist • Java | Python | SQL**
-</p>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2600&color=FF3399&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;React+Frontend+Engineer;Java+%7C+Python+%7C+SQL+Developer;UI%2FUX+Lover+%F0%9F%8E%A8;Crafting+Beautiful+Experiences%E2%9D%A4%EF%B8%8F" alt="Typing animation" style="filter: drop-shadow(0 0 8px #ff006a88);"/>
-</div>
-
-<br/>
 
 <div align="center">
 <div style="
