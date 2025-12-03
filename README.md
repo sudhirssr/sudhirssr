@@ -150,11 +150,10 @@
 ">📊 GitHub Activity & Stats</h2>
 
 <div align="center">
-  <img height="160" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=harshavardini406&show_icons=true&theme=gotham&icon_color=FF3399&title_color=FF006A&text_color=FFD7DD&bg_color=181818" />
   
   <img height="160" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=harshavardini406&theme=dark&stroke=FF3399&background=181818&ring=FF006A&fire=FF4D00&side_color=FF3399&currStreakLabel=FFD7DD" />
   
-  <img height="160" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshavardini406&layout=compact&theme=gotham&title_color=FF006A&text_color=FFD7DD&bg_color=181818&icon_color=FF3399" />
+
 </div>
 
 <div style="height: 2px; width: 60%; margin: 30px auto; background: linear-gradient(90deg, transparent, #ff3399, transparent); border-radius: 1px;"></div>
@@ -169,16 +168,13 @@
 ">🔗 Connect with Me</h2>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <a href="paste link" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-282c34?style=for-the-badge&logo=About.me&logoColor=ff4d6d" alt="Portfolio Badge"/>
-  </a>
-  <a href="paste link" target="_blank">
+  <a href="https://www.linkedin.com/in/harshavardini-t-546a1a291/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ff4d6d" alt="LinkedIn Badge"/>
   </a>
   <a href="https://github.com/harshavardini406" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=ff4d6d" alt="GitHub Badge"/>
   </a>
-  <a href="mailto:paste email">
+  <a href="mailto:harshavardini137@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=ff4d6d" alt="Email Badge"/>
   </a>
 </div>
