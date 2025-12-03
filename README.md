@@ -1,6 +1,19 @@
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
 
-<div style="font-family: 'Poppins', sans-serif; background-color: #0d0d0d; color: #ffd7dd; padding: 10px;">
+<div style="
+  font-family: 'Poppins', sans-serif; 
+  background-color: #0d0d0d; 
+  color: #ffd7dd; 
+  padding: 10px;
+  /* Defining keyframes as inline CSS properties is not standard, but we adhere to the rule of removing the <style> tag. */
+  /* This is the closest we can get to making the 'pulse' animation inline, but it relies on GitHub allowing non-standard inline rules. */
+  animation-name: pulse;
+  @keyframes pulse {
+    0% { transform: scale(1); }
+    50% { transform: scale(1.05); }
+    100% { transform: scale(1); }
+  }
+">
 
 <h1 align="center" style="
   font-size: 56px;
@@ -13,14 +26,6 @@
 ">
   <span style="display: inline-block; animation: pulse 1.5s infinite;">💖</span> HarshaVardini.T <span style="display: inline-block; animation: pulse 1.5s infinite reverse;">💖</span>
 </h1>
-
-<style>
-  @keyframes pulse {
-    0% { transform: scale(1); }
-    50% { transform: scale(1.05); }
-    100% { transform: scale(1); }
-  }
-</style>
 
 <p align="center" style="font-size: 20px; color: #ffc5c5; margin-top: 0; font-weight: 400;">
   **Full Stack Developer • React Specialist • Java | Python | SQL**
@@ -40,8 +45,8 @@
   padding: 30px;
   border-radius: 20px;
   backdrop-filter: blur(12px);
-  border: 2px solid #ff2e5f88; /* Slightly thicker border */
-  box-shadow: 0 0 30px #ff1f4b88; /* More prominent shadow */
+  border: 2px solid #ff2e5f88;
+  box-shadow: 0 0 30px #ff1f4b88;
   color: #ffd7dd;
   text-align: center;
   line-height: 1.6;
@@ -97,34 +102,18 @@
 
 <br/>
 
-<style>
-  /* Base style for project card (for GitHub Readme, we use a single class/style for simplicity) */
-  .project-card {
-    background: rgba(255, 0, 80, 0.08); /* Slightly darker background */
-    padding: 20px;
-    border-radius: 18px;
-    border: 1px solid #ff2e5f55;
-    backdrop-filter: blur(10px);
-    box-shadow: 0 0 20px #ff004455;
-    transition: all 0.3s ease-in-out; /* Enable transition for hover */
-    margin: 10px; /* Space between cards */
-  }
-  /* Since we can't use :hover in inline style tags, this effect is limited. */
-  /* If you could use a style tag for the full README, you'd add:
-  .project-card:hover {
-    transform: translateY(-5px) scale(1.02);
-    box-shadow: 0 10px 30px #ff0044aa;
-    border-color: #ff006a;
-  }
-  */
-</style>
-
 <table align="center" style="width: 100%; border-collapse: separate; border-spacing: 15px 0;">
   <tr>
     <td align="center" width="50%" style="vertical-align: top;">
-      <div class="project-card" style="
-        background: rgba(255, 0, 80, 0.08);
-        transition: all 0.3s ease-in-out;
+      <div style="
+        background: rgba(255, 0, 80, 0.08); 
+        padding: 20px; 
+        border-radius: 18px; 
+        border: 1px solid #ff2e5f55; 
+        backdrop-filter: blur(10px); 
+        box-shadow: 0 0 20px #ff004455; 
+        transition: all 0.3s ease-in-out; 
+        margin: 10px;
       ">
         <img src="https://raw.githubusercontent.com/sudharshansudhir/Portfolio-SSR/main/src/assets/imagess/tomato.png"
           width="100%" height="auto"
@@ -139,9 +128,15 @@
     </td>
 
     <td align="center" width="50%" style="vertical-align: top;">
-      <div class="project-card" style="
-        background: rgba(255, 0, 120, 0.08);
-        transition: all 0.3s ease-in-out;
+      <div style="
+        background: rgba(255, 0, 120, 0.08); 
+        padding: 20px; 
+        border-radius: 18px; 
+        border: 1px solid #ff2e5f55; 
+        backdrop-filter: blur(10px); 
+        box-shadow: 0 0 20px #ff007755; 
+        transition: all 0.3s ease-in-out; 
+        margin: 10px;
       ">
         <img src="https://raw.githubusercontent.com/sudharshansudhir/Portfolio-SSR/main/src/assets/imagess/proj-1.png"
           width="100%" height="auto"
