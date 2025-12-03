@@ -12,7 +12,7 @@
 
 <!-- Neon Hero Image -->
 <div align="center">
-  <img src="https://github.com/harshavardini406/HarshaVardini-portfolio/blob/main/image/img.png" width="480" style="border-radius:22px; box-shadow:0 0 25px rgba(0,255,255,0.6), 0 0 45px rgba(255,0,255,0.4);" />
+  <img src="https://github.com/sudhirssr/sudhirssr/blob/main/IMG-20250118-WA0038.jpg" width="480" style="border-radius:22px; box-shadow:0 0 25px rgba(0,255,255,0.6), 0 0 45px rgba(255,0,255,0.4);" />
 </div>
 
 ---
