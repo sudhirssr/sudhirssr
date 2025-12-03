@@ -72,61 +72,53 @@
 ---
 
 <!-- PROJECT SECTION -->
-<h2 style="color:#ff4040; text-shadow:0 0 12px #ff4d4d;">🌟 Featured Projects</h2>
+<h2 align="center">🚀 My Featured Projects</h2>
 
-<!-- TOMATO PROJECT CARD -->
-<div style="
-  background:#1e1e1e;
-  padding:18px;
-  border-radius:14px;
-  margin-bottom:15px;
-  border:2px solid #ff333333;
-  box-shadow:0 0 18px #ff000055;
-">
+<br/>
 
-<h3 style="color:#ff4747;">🍅 Tomato – Food Delivery UI</h3>
+<table align="center">
+  <tr>
 
-A beautifully crafted food-delivery interface with elegant animations and modern responsive layouts.
+  <!-- 🍅 TOMATO PROJECT -->
+  <td align="center" width="50%">
+    <img src="https://github.com/sudharshansudhir/Portfolio-SSR/blob/main/src/assets/imagess/tomato.png"
+      width="340" height="240"
+      style="
+        border-radius:18px;
+        box-shadow:0 0 18px #ff2727, 0 0 38px #ff5c5c;
+        transition:0.3s ease;
+      "
+      onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 0 22px #ff4444, 0 0 45px #ff0000';"
+      onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 18px #ff2727, 0 0 38px #ff5c5c';"
+    />
+    <h3 style="color:#ff3b3b;">🍅 Tomato</h3>
+    <p><strong>React + Tailwind</strong> | Modern food delivery UI</p>
+    🔗 <a href="https://tomato-mern-stack-project.vercel.app/">Live</a> • 
+    <a href="https://github.com/HarshaRepoHere/Tomato">Code</a>
+  </td>
 
-<b>✨ Features</b>  
-✔ Interactive UI  
-✔ Modern product cards  
-✔ Smooth transitions  
-✔ Clean layout  
-✔ Fully responsive  
+  <!-- 📘 VOCABULARY BUILDER -->
+  <td align="center" width="50%">
+    <img src="https://github.com/sudharshansudhir/Portfolio-SSR/blob/main/src/assets/imagess/proj-1.png"
+      width="340" height="240"
+      style="
+        border-radius:18px;
+        box-shadow:0 0 18px #ff0077, 0 0 38px #ff3366;
+        transition:0.3s ease;
+      "
+      onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 0 22px #ff5599, 0 0 45px #ff0044';"
+      onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 18px #ff0077, 0 0 38px #ff3366';"
+    />
+    <h3 style="color:#ff0066;">📘 Vocabulary Builder</h3>
+    <p><strong>HTML • CSS • JS</strong> | AI stories + quizzes + dashboard</p>
+    🔗 <a href="https://vocabulary-builder.vercel.app">Live</a> • 
+    <a href="https://github.com/HarshaRepoHere/Vocabulary-Builder">Code</a>
+  </td>
 
-**Tech:** React  
-🔗 <b>GitHub:</b> *paste here*  
-🔗 <b>Live:</b> *paste here*  
+  </tr>
+</table>
 
-</div>
-
-<!-- VOCAB BUILDER PROJECT CARD -->
-<div style="
-  background:#1e1e1e;
-  padding:18px;
-  border-radius:14px;
-  border:2px solid #ff333333;
-  box-shadow:0 0 18px #ff000055;
-">
-
-<h3 style="color:#ff4747;">📘 Vocabulary Builder</h3>
-
-A smart and engaging learning tool to improve vocabulary effectively.
-
-<b>✨ Features</b>  
-✔ AI story generation  
-✔ 5-question quizzes  
-✔ Light & Dark mode  
-✔ Practice mode  
-✔ Progress dashboard  
-
-**Tech:** HTML • CSS • JavaScript  
-🔗 <b>GitHub:</b> *paste here*  
-🔗 <b>Live:</b> *paste here*  
-
-</div>
-
+<br/>
 ---
 
 <!-- GITHUB STATS -->
