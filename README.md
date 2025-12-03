@@ -79,7 +79,7 @@
 
   <div align="center">
     <a href="https://skillicons.dev" target="_blank" style="text-decoration: none;">
-      <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js,ts,java,spring,python,mysql,mongodb,git,github,vscode,docker&theme=dark" alt="Tech Stack Icons" style="transition: transform 0.3s; margin: 5px;"/>
+      <img src="https://skillicons.dev/icons?i=react,html,css,js,java,spring,python,mysql,git,github,vscode&theme=dark" alt="Tech Stack Icons" style="transition: transform 0.3s; margin: 5px;"/>
     </a>
   </div>
 </div>
